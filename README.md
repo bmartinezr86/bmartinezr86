@@ -6,7 +6,7 @@
 
 ## Sobre mi 😀
 
-- Trabajo en ODEC. como Administradora de Sistemas.
+- Trabajo en ODEC como Administradora de Sistemas.
 - Actualmente estoy en continua formación enfocada al desarrollo web de manera autodidacta.
 - Proximamente lanzare mi portafolio personal, donde poder ver mis proyectos y experiencia con más claridad.
 
@@ -53,6 +53,6 @@
 
 <span class="contacto">
 <a href="https://www.linkedin.com/in/barbaramartinezrizo/">
-<img src="images/linkedin.png" alt="Urbackup" width="45px">
+<img src="images/linkedin.png" alt="Urbackup" width="35px">
 </a>
 </span>
