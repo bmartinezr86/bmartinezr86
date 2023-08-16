@@ -1,15 +1,17 @@
+<head>
 <style>
     img {
         width:100%;
     }
 
     .contacto img,
-   .desarrollo img,
-  .sistemas img {
-        width: 45px;
-        margin-right:2%;
-        margin-bottom:2%;
-    }
+
+.desarrollo img,
+.sistemas img {
+width: 45px;
+margin-right:2%;
+margin-bottom:2%;
+}
 
      .contacto img,
       .logo img  {
@@ -21,9 +23,8 @@
         text-align:right;
     }
 
-
 </style>
-
+</head>
 # ¡Hola! Mi nombre es
 
 ![tarjeta-de-presentacion](images/tarjeta-de-presentacion.png)
