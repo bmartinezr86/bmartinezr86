@@ -11,6 +11,7 @@
 - Proximamente lanzare mi portafolio personal, donde poder ver mis proyectos y experiencia con más claridad.
 
 <br>
+
 ## APPs y Herramientas que uso:
 
 ### Desarrollo 💻
@@ -43,6 +44,9 @@
 <img src="images/K8S-logo.png" alt="Kubernetes" width="45px">
 <img src="images/zabbix.png" alt="Zabbix" width="45px">
 <img src="images/urbackup.webp" alt="Urbackup" width="45px">
+<img src="images/apache.png" alt="Apache" width="45px">
+<img src="images/nginx.png" alt="NGINX" width="45px">
+<img src="images/wildfly.png" alt="WildFly" width="45px">
 </span>
 
 ## Contacto ✉
