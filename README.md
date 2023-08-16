@@ -12,7 +12,7 @@
     }
 
      .contacto img,
-      .logo img  {s
+      .logo img  {
         width: 35px;
         margin-bottom:2%;
     }
